@@ -1,0 +1,5 @@
+experiments/*.exe
+experiments/cache_probe
+results/
+__pycache__/
+simulation/
